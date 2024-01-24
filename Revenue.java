@@ -20,5 +20,6 @@ public class Revenue {
 
         System.out.println("Revenue = " + revenue);
         System.out.println("Discount= " + discount);
+       System.out.println("new changes");
 
     }}
