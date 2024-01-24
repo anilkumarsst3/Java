@@ -42,7 +42,7 @@ public class ArrayListcolor {
         color.add("Viper");
         color.add("green");
         System.out.println(color);
-
+        /* adding the comment */ 
         color.forEach((j) -> System.out.print(j));
 
 
